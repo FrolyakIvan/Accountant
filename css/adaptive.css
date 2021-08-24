@@ -1,0 +1,956 @@
+@media (min-width:992px) and (max-width:1199px) {
+    section#main .row .col-lg-4 .request-box-content {
+        padding: 30px 25px
+    }
+    section#contact .container .row .col-xs-3 p.contact-info,
+    section#contact .container .row .col-xs-3 p.contact-info .text-blue,
+    section#contact .container .row .col-xs-3 p.contact-info a,
+    section#main .row .col-lg-4 ol.services li a {
+        font-size: 15px
+    }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    header#hat .row .col-lg-4 .hat-numbers,
+    section#main .row .col-lg-4 img {
+        display: none
+    }
+    section#fifth .container .row .col-xs-12 .fifth-box,
+    section#forth .container .row .col-xs-12 .forth-box,
+    section#sixth .container .row .col-xs-12 .sixth-box,
+    section#third .container .row .col-xs-12 .third-box {
+        max-width: 730px
+    }
+    .header-black {
+        font-size: 28px
+    }
+    .header-blue {
+        font-size: 17px
+    }
+    header#hat .row .col-lg-4 .hat-text {
+        font-size: 16px
+    }
+    nav.navbar .container-fluid .navbar-collapse ul.nav li a {
+        font-size: 15px;
+        padding-left: 50px;
+        padding-right: 50px
+    }
+    section#main .row .col-lg-4 .request-box-content-text {
+        font-size: 15px
+    }
+    section#main .row .col-lg-4 .request-box-content-text b {
+        font-size: 22px
+    }
+    .top-line .contact-tel-me-text,
+    section#fifth .container .row .col-xs-12 .fifth-box-content-list ol li,
+    section#fifth .container .row .col-xs-12 .fifth-box-content-list p b,
+    section#fifth .container .row .col-xs-12 .fifth-box-content-txt p,
+    section#forth .container .row .col-xs-12 .forth-box-content-txt p,
+    section#main .row .col-lg-4 ol.services li a {
+        font-size: 15px
+    }
+    .top-line .contact-tel-me-text b {
+        font-size: 17px
+    }
+    section#about-me .container .row .col-xs-12 .about-me-content .about-me_txt,
+    section#about-me .container .row .col-xs-12 .about-me-content .about-me_txt b,
+    section#sixth .container .row .col-xs-12 .sixth-box-content-list p,
+    section#sixth .container .row .col-xs-12 .sixth-box-content-txt p {
+        font-size: 15px
+    }
+    .top-line form.contact-tel-me input {
+        padding: 11px
+    }
+    section#about-me {
+        background-position-x: 35%
+    }
+    section#about-me .container .row .col-xs-12 .about-me-content .about-me_header {
+        font-size: 28px
+    }
+    section#client-said .container .row .col-xs-12 .client-said-box {
+        max-width: 415px;
+        max-height: none
+    }
+    section#client-said .container .row .col-xs-12 .client-said-box-content-problem-header,
+    section#client-said .container .row .col-xs-12 .client-said-box-content-problem-txt,
+    section#client-said .container .row .col-xs-12 .client-said-box-content-sms-header,
+    section#client-said .container .row .col-xs-12 .client-said-box-content-solution-header,
+    section#client-said .container .row .col-xs-12 .client-said-box-content-solution-txt {
+        font-size: 15px
+    }
+    section#client-said .container .row .col-xs-12 .client-said-box-content-company {
+        margin-left: 0
+    }
+    section#client-said .container .row .col-xs-12 .client-said-box-content-sms-txt {
+        padding: 50px
+    }
+    section#client-said .container .row .col-xs-12 .client-said-box-content-company p {
+        font-size: 13px
+    }
+    section#client-said .container .row .col-xs-12 .client-said-box-content {
+        display: block
+    }
+    section#contact .container .row .col-xs-3 p.contact-info,
+    section#contact .container .row .col-xs-3 p.contact-info a {
+        font-size: 12px
+    }
+    section#contact .container .row .col-xs-3 p.contact-info .text-blue {
+        font-size: 13px
+    }
+    #v-navbar .navbar-list-items a {
+        color: transparent
+    }
+    .nav-tabs>li.active>a {
+        text-decoration: underline #ffd52f
+    }
+    #v-navbar #vertical-nav {
+        display: none
+    }
+}
+
+@media (min-width:596px) and (max-width:767px) {
+    .header-black {
+        font-size: 25px
+    }
+    .header-blue,
+    .yellow-btn-call {
+        font-size: 15px
+    }
+    header#hat .row .col-lg-4 .hat-text {
+        font-size: 10.5px
+    }
+    header#hat .row .col-lg-4 .hat-numbers {
+        font-size: 14px;
+        text-align: -webkit-right
+    }
+    header#hat .row .col-lg-4 .hat-btn-call {
+        float: right;
+        font-size: 10px
+    }
+    nav.navbar .container-fluid .navbar-collapse ul.nav li a {
+        font-size: 12.5px;
+        padding-left: 50px;
+        padding-right: 50px
+    }
+    nav.navbar .container-fluid .navbar-collapse ul.nav li a:nth-child(n+1) {
+        border: none
+    }
+    section#main .row .col-lg-4 img {
+        display: none
+    }
+    section#main .row .col-lg-4 .request-box-content-text {
+        font-size: 14px
+    }
+    section#main .row .col-lg-4 .request-box-content-text b {
+        font-size: 20px
+    }
+    section#main .row .col-lg-4 ol.services li a {
+        font-size: 14px
+    }
+    section#main .row .col-lg-4 .request-box-content form.main-request .main-request,
+    section#second .container .row .col-xs-12 .second-box-content .example-one,
+    section#second .container .row .col-xs-12 .second-box-content .examples-list-items,
+    section#second .container .row .col-xs-12 .second-box-content .result-box .result {
+        font-size: 15px
+    }
+    section#main .row .col-lg-4 .request-box-content {
+        padding: 30px 20px
+    }
+    section#main .row .col-lg-4 .request-box-content form.main-request input {
+        padding: 15px 20px;
+        display: -webkit-inline-box;
+        justify-content: center
+    }
+    section#second .container .row .col-xs-12 .second-box {
+        -webkit-max-width: 540px;
+        -moz-max-width: 540px;
+        -ms-max-width: 540px;
+        -o-max-width: 540px;
+        max-width: 540px;
+        display: contents;
+        border: none
+    }
+    section#second .container .row .col-xs-12 .second-box-content .result-box .result-text {
+        font-size: 11px
+    }
+    section#third .container .row .col-xs-12 .third-box {
+        -webkit-max-width: 540px;
+        -moz-max-width: 540px;
+        -ms-max-width: 540px;
+        -o-max-width: 540px;
+        max-width: 540px;
+        display: contents;
+        border: none
+    }
+    section#fifth .container .row .col-xs-12 .fifth-box,
+    section#forth .container .row .col-xs-12 .forth-box {
+        -webkit-max-width: 540px;
+        -moz-max-width: 540px;
+        -ms-max-width: 540px;
+        -o-max-width: 540px;
+        display: contents;
+        border: none
+    }
+    section#third .container .row .col-xs-12 .third-box-content .example-two,
+    section#third .container .row .col-xs-12 .third-box-content .example-two-txt,
+    section#third .container .row .col-xs-12 .third-box-content .result_two .result-two,
+    section#third .container .row .col-xs-12 .third-box-content .result_two .result-two-txt,
+    section#third .container .row .col-xs-12 .third-box-content .solution_two .solution-two,
+    section#third .container .row .col-xs-12 .third-box-content .solution_two .solution-two-txt {
+        font-size: 15px
+    }
+    .top-line form.contact-tel-me button {
+        font-size: 14px;
+        margin-top: 14px;
+        margin-bottom: 14px
+    }
+    section#fifth .container .row .col-xs-12 .fifth-box-content-list ol li,
+    section#fifth .container .row .col-xs-12 .fifth-box-content-list p b,
+    section#fifth .container .row .col-xs-12 .fifth-box-content-txt p,
+    section#forth .container .row .col-xs-12 .forth-box-content-txt p,
+    section#forth .container .row .col-xs-12 .forth-box-content-txt p b {
+        font-size: 15px
+    }
+    section#forth .container .row .col-xs-12 .forth-box {
+        max-width: 540px
+    }
+    section#fifth .container .row .col-xs-12 .fifth-box {
+        max-width: 540px
+    }
+    .top-line .contact-tel-me-text {
+        font-size: 13px
+    }
+    .top-line .contact-tel-me-text b {
+        font-size: 16px
+    }
+    .top-line form.contact-tel-me input {
+        padding: 11px 0
+    }
+    section#sixth .container .row .col-xs-12 .sixth-box {
+        -webkit-max-width: 540px;
+        -moz-max-width: 540px;
+        -ms-max-width: 540px;
+        -o-max-width: 540px;
+        max-width: 540px;
+        display: contents;
+        border: none
+    }
+    section#sixth .container .row .col-xs-12 .sixth-box-content-list p,
+    section#sixth .container .row .col-xs-12 .sixth-box-content-txt p {
+        font-size: 15px
+    }
+    section#about-me {
+        background-position-x: 35%
+    }
+    section#about-me .container .row .col-xs-12 .about-me-content .about-me_txt {
+        font-size: 13px
+    }
+    section#about-me .container .row .col-xs-12 .about-me-content .about-me_txt b {
+        font-size: 14px
+    }
+    section#about-me .container .row .col-xs-12 .about-me-content .about-me_header {
+        font-size: 26px
+    }
+    section#client-said .container .row .col-xs-12 .client-said-box {
+        max-width: 305px;
+        max-height: none
+    }
+    section#client-said .container .row .col-xs-12 .client-said-box-content-problem-header,
+    section#client-said .container .row .col-xs-12 .client-said-box-content-problem-txt,
+    section#client-said .container .row .col-xs-12 .client-said-box-content-sms-header,
+    section#client-said .container .row .col-xs-12 .client-said-box-content-solution-header,
+    section#client-said .container .row .col-xs-12 .client-said-box-content-solution-txt {
+        font-size: 10px
+    }
+    section#client-said .container .row .col-xs-12 .client-said-box-content-company {
+        margin-left: 0
+    }
+    section#client-said .container .row .col-xs-12 .client-said-box-content-sms-txt {
+        padding: 40px
+    }
+    section#client-said .container .row .col-xs-12 .client-said-box-content-company p {
+        font-size: 12px
+    }
+    section#client-said .container .row .col-xs-12 .client-said-box-content {
+        display: block
+    }
+    section#contact .container .row .col-xs-3 p.contact-info,
+    section#contact .container .row .col-xs-3 p.contact-info a {
+        font-size: 10.5px
+    }
+    section#contact .container .row .col-xs-3 p.contact-info .text-blue {
+        font-size: 12.5px
+    }
+    section#contact .container .row .col-xs-3 img {
+        width: 35px
+    }
+    #v-navbar .navbar-list-items a {
+        color: transparent
+    }
+    .nav-tabs>li.active>a {
+        text-decoration: underline #ffd52f
+    }
+    #v-navbar .navbar-list {
+        display: none
+    }
+}
+
+@media (max-width:595px) {
+    .header-black {
+        font-size: 18px
+    }
+    .header-blue {
+        font-size: 12px
+    }
+    header#hat .row .col-lg-4 .hat-text {
+        font-size: 8px
+    }
+    header#hat .row .col-lg-4 .hat-numbers {
+        font-size: 10px;
+        text-align: -webkit-right
+    }
+    header#hat .row .col-lg-4 .hat-btn-call {
+        float: right;
+        font-size: 9px
+    }
+    nav.navbar .container-fluid .navbar-collapse ul.nav li a {
+        font-size: 10px;
+        padding-left: 50px;
+        padding-right: 50px
+    }
+    nav.navbar .container-fluid .navbar-collapse ul.nav li a:nth-child(n+1) {
+        border: none
+    }
+    section#main .row .col-lg-4 img {
+        display: none
+    }
+    section#main .row .col-lg-4 .request-box-content-text {
+        font-size: 12px
+    }
+    section#main .row .col-lg-4 .request-box-content-text b {
+        font-size: 20px
+    }
+    section#main .row .col-lg-4 .request-box-content {
+        padding: 30px 15px
+    }
+    section#main .row .col-lg-4 .request-box-content form.main-request input {
+        padding: 15px;
+        display: -webkit-inline-box;
+        justify-content: center
+    }
+    section#main .row .col-lg-4 .request-box-content form.main-request .main-request {
+        font-size: 12px
+    }
+    section#main .row .col-lg-4 ol.services {
+        display: none
+    }
+    section#second .container .row .col-xs-12 .second-box {
+        -webkit-max-width: 340px;
+        -moz-max-width: 340px;
+        -ms-max-width: 340px;
+        -o-max-width: 340px;
+        max-width: 340px;
+        display: contents;
+        border: none
+    }
+    section#second .container .row .col-xs-12 .second-box-content .example-one,
+    section#second .container .row .col-xs-12 .second-box-content .examples-list-items,
+    section#second .container .row .col-xs-12 .second-box-content .result-box .result {
+        font-size: 15px
+    }
+    section#second .container .row .col-xs-12 .second-box-content .result-box .result-text {
+        font-size: 10px
+    }
+    section#third .container .row .col-xs-12 .third-box {
+        -webkit-max-width: 340px;
+        -moz-max-width: 340px;
+        -ms-max-width: 340px;
+        -o-max-width: 340px;
+        max-width: 340px;
+        display: contents;
+        border: none
+    }
+    section#fifth .container .row .col-xs-12 .fifth-box,
+    section#forth .container .row .col-xs-12 .forth-box {
+        -webkit-max-width: 340px;
+        -moz-max-width: 340px;
+        -ms-max-width: 340px;
+        -o-max-width: 340px;
+        display: contents;
+        border: none
+    }
+    section#third .container .row .col-xs-12 .third-box-content .example_two .example-two {
+        font-size: 15px
+    }
+    section#third .container .row .col-xs-12 .third-box-content .example_two .example-two-txt {
+        font-size: 12.5px
+    }
+    section#third .container .row .col-xs-12 .third-box-content .result_two .result-two {
+        font-size: 15px
+    }
+    section#third .container .row .col-xs-12 .third-box-content .result_two .result-two-txt {
+        font-size: 12.5px
+    }
+    section#third .container .row .col-xs-12 .third-box-content .solution_two .solution-two {
+        font-size: 15px
+    }
+    section#forth .container .row .col-xs-12 .forth-box-content-txt p,
+    section#third .container .row .col-xs-12 .third-box-content .solution_two .solution-two-txt {
+        font-size: 12.5px
+    }
+    section#forth .container .row .col-xs-12 .forth-box {
+        max-width: 340px
+    }
+    section#forth .container .row .col-xs-12 .forth-box-content-txt p b {
+        font-size: 13.5px
+    }
+    .top-line form.contact-tel-me button {
+        margin-bottom: 14px;
+        font-size: 14px;
+        margin-top: 14px
+    }
+    section#fifth .container .row .col-xs-12 .fifth-box {
+        max-width: 340px
+    }
+    section#fifth .container .row .col-xs-12 .fifth-box-content-list ol li,
+    section#fifth .container .row .col-xs-12 .fifth-box-content-list p b,
+    section#fifth .container .row .col-xs-12 .fifth-box-content-txt p {
+        font-size: 12.5px
+    }
+    .top-line .contact-tel-me-text {
+        font-size: 10px
+    }
+    .top-line .contact-tel-me-text b,
+    section#sixth .container .row .col-xs-12 .sixth-box-content-list p,
+    section#sixth .container .row .col-xs-12 .sixth-box-content-txt p {
+        font-size: 12.5px
+    }
+    .top-line form.contact-tel-me input {
+        padding: 11px 0
+    }
+    section#sixth .container .row .col-xs-12 .sixth-box {
+        -webkit-max-width: 340px;
+        -moz-max-width: 340px;
+        -ms-max-width: 340px;
+        -o-max-width: 340px;
+        max-width: 340px;
+        display: contents;
+        border: none
+    }
+    section#about-me {
+        background-position-x: 35%
+    }
+    section#about-me .container .row .col-xs-12 .about-me-content .about-me_txt {
+        font-size: 12px
+    }
+    section#about-me .container .row .col-xs-12 .about-me-content .about-me_txt b {
+        font-size: 13px
+    }
+    section#about-me .container .row .col-xs-12 .about-me-content .about-me_header {
+        font-size: 24px
+    }
+    section#client-said .container .row .col-xs-12 .client-said-box {
+        max-width: 311px;
+        max-height: none
+    }
+    section#client-said .container .row .col-xs-12 .client-said-box-content-problem-header,
+    section#client-said .container .row .col-xs-12 .client-said-box-content-problem-txt,
+    section#client-said .container .row .col-xs-12 .client-said-box-content-sms-header,
+    section#client-said .container .row .col-xs-12 .client-said-box-content-solution-header,
+    section#client-said .container .row .col-xs-12 .client-said-box-content-solution-txt {
+        font-size: 10px
+    }
+    section#client-said .container .row .col-xs-12 .client-said-box-content-company {
+        margin-left: 0
+    }
+    section#client-said .container .row .col-xs-12 .client-said-box-content-sms-txt {
+        padding: 40px
+    }
+    section#client-said .container .row .col-xs-12 .client-said-box-content-company p {
+        font-size: 12px
+    }
+    section#client-said .container .row .col-xs-12 .client-said-box-content {
+        display: block
+    }
+    section#contact .container .row .col-xs-3 p.contact-info,
+    section#contact .container .row .col-xs-3 p.contact-info a {
+        font-size: 10px
+    }
+    section#contact .container .row .col-xs-3 p.contact-info .text-blue {
+        font-size: 12px
+    }
+    section#contact .container .row .col-xs-3 img {
+        width: 30px
+    }
+    #v-navbar .navbar-list-items a {
+        color: transparent
+    }
+    .nav-tabs>li.active>a {
+        text-decoration: underline #ffd52f
+    }
+    #v-navbar .navbar-list {
+        display: none
+    }
+}
+
+@media (max-width:400px) {
+    .header-black {
+        font-size: 15px
+    }
+    .header-blue {
+        font-size: 10px
+    }
+    header#hat .row .col-lg-4 .hat-text {
+        font-size: 8px
+    }
+    header#hat .row .col-lg-4 .hat-numbers {
+        font-size: 10px;
+        text-align: -webkit-right
+    }
+    header#hat .row .col-lg-4 .hat-btn-call {
+        float: right;
+        font-size: 9px
+    }
+    nav.navbar .container-fluid .navbar-collapse ul.nav li a {
+        font-size: 10px;
+        padding-left: 50px;
+        padding-right: 50px
+    }
+    nav.navbar .container-fluid .navbar-collapse ul.nav li a:nth-child(n+1) {
+        border: none
+    }
+    section#main .row .col-lg-4 img {
+        display: none
+    }
+    section#main .row .col-lg-4 .request-box-content-text {
+        font-size: 12px
+    }
+    section#main .row .col-lg-4 .request-box-content-text b {
+        font-size: 20px
+    }
+    section#main .row .col-lg-4 .request-box-content {
+        padding: 30px 15px
+    }
+    section#main .row .col-lg-4 .request-box-content form.main-request input {
+        padding: 15px;
+        display: -webkit-inline-box;
+        justify-content: center
+    }
+    section#main .row .col-lg-4 .request-box-content form.main-request .main-request {
+        font-size: 12px
+    }
+    section#main .row .col-lg-4 ol.services {
+        display: none
+    }
+    section#second .container .row .col-xs-12 .second-box {
+        -webkit-max-width: 320px;
+        -moz-max-width: 320px;
+        -ms-max-width: 320px;
+        -o-max-width: 320px;
+        max-width: 320px;
+        display: contents;
+        border: none
+    }
+    section#second .container .row .col-xs-12 .second-box-content .example-one,
+    section#second .container .row .col-xs-12 .second-box-content .examples-list-items,
+    section#second .container .row .col-xs-12 .second-box-content .result-box .result {
+        font-size: 13px
+    }
+    section#second .container .row .col-xs-12 .second-box-content .result-box .result-text {
+        font-size: 8px
+    }
+    section#second {
+        -webkit-overflow: hidden;
+        -moz-overflow: hidden;
+        -ms-overflow: hidden;
+        -o-overflow: hidden;
+        overflow: hidden
+    }
+    section#forth,
+    section#third {
+        -webkit-overflow: hidden;
+        -moz-overflow: hidden;
+        -ms-overflow: hidden;
+        -o-overflow: hidden
+    }
+    section#third .container .row .col-xs-12 .third-box {
+        -webkit-max-width: 320px;
+        -moz-max-width: 320px;
+        -ms-max-width: 320px;
+        -o-max-width: 320px;
+        max-width: 320px;
+        display: contents;
+        border: none
+    }
+    section#fifth .container .row .col-xs-12 .fifth-box,
+    section#forth .container .row .col-xs-12 .forth-box {
+        -webkit-max-width: 320px;
+        -moz-max-width: 320px;
+        -ms-max-width: 320px;
+        -o-max-width: 320px;
+        display: contents;
+        border: none
+    }
+    section#third .container .row .col-xs-12 .third-box-content .example_two .example-two {
+        font-size: 13px
+    }
+    section#third .container .row .col-xs-12 .third-box-content .example_two .example-two-txt {
+        font-size: 10px
+    }
+    section#third .container .row .col-xs-12 .third-box-content .result_two .result-two {
+        font-size: 13px
+    }
+    section#third .container .row .col-xs-12 .third-box-content .result_two .result-two-txt {
+        font-size: 10px
+    }
+    section#third .container .row .col-xs-12 .third-box-content .solution_two .solution-two {
+        font-size: 13px
+    }
+    section#forth .container .row .col-xs-12 .forth-box-content-txt p,
+    section#third .container .row .col-xs-12 .third-box-content .solution_two .solution-two-txt {
+        font-size: 10px
+    }
+    section#third {
+        overflow: hidden
+    }
+    section#forth .container .row .col-xs-12 .forth-box {
+        max-width: 320px
+    }
+    section#forth .container .row .col-xs-12 .forth-box-content-txt p b {
+        font-size: 11.5px
+    }
+    .top-line form.contact-tel-me button {
+        margin-bottom: 14px;
+        font-size: 12px;
+        margin-top: 14px
+    }
+    section#forth {
+        overflow: hidden
+    }
+    section#fifth,
+    section#sixth {
+        -webkit-overflow: hidden;
+        -moz-overflow: hidden;
+        -ms-overflow: hidden;
+        -o-overflow: hidden
+    }
+    section#fifth .container .row .col-xs-12 .fifth-box {
+        max-width: 320px
+    }
+    section#fifth .container .row .col-xs-12 .fifth-box-content-list ol li,
+    section#fifth .container .row .col-xs-12 .fifth-box-content-list p b,
+    section#fifth .container .row .col-xs-12 .fifth-box-content-txt p {
+        font-size: 10px
+    }
+    section#fifth {
+        overflow: hidden
+    }
+    .top-line .contact-tel-me-text {
+        font-size: 9px
+    }
+    .top-line .contact-tel-me-text b,
+    section#about-me .container .row .col-xs-12 .about-me-content .about-me_txt,
+    section#sixth .container .row .col-xs-12 .sixth-box-content-list p,
+    section#sixth .container .row .col-xs-12 .sixth-box-content-txt p {
+        font-size: 10px
+    }
+    .top-line form.contact-tel-me input {
+        padding: 11px 0
+    }
+    section#sixth .container .row .col-xs-12 .sixth-box {
+        -webkit-max-width: 320px;
+        -moz-max-width: 320px;
+        -ms-max-width: 320px;
+        -o-max-width: 320px;
+        max-width: 320px;
+        display: contents;
+        border: none
+    }
+    section#sixth {
+        overflow: hidden
+    }
+    section#about-me {
+        background-position-x: 35%
+    }
+    section#about-me .container .row .col-xs-12 .about-me-content .about-me_txt b {
+        font-size: 11px
+    }
+    section#about-me .container .row .col-xs-12 .about-me-content .about-me_header {
+        font-size: 22px
+    }
+    section#client-said .container .row .col-xs-12 .client-said-box {
+        max-width: 260px;
+        max-height: none
+    }
+    section#client-said .container .row .col-xs-12 .client-said-box-content-problem-header,
+    section#client-said .container .row .col-xs-12 .client-said-box-content-problem-txt,
+    section#client-said .container .row .col-xs-12 .client-said-box-content-sms-header,
+    section#client-said .container .row .col-xs-12 .client-said-box-content-solution-header,
+    section#client-said .container .row .col-xs-12 .client-said-box-content-solution-txt {
+        font-size: 8px
+    }
+    section#client-said .container .row .col-xs-12 .client-said-box-content-company p,
+    section#contact .container .row .col-xs-3 p.contact-info,
+    section#contact .container .row .col-xs-3 p.contact-info a {
+        font-size: 10px
+    }
+    section#client-said .container .row .col-xs-12 .client-said-box-content-company {
+        margin-left: 0
+    }
+    section#client-said .container .row .col-xs-12 .client-said-box-content-sms-txt {
+        padding: 30px
+    }
+    section#client-said .container .row .col-xs-12 .client-said-box-content {
+        display: block
+    }
+    section#client-said {
+        -webkit-overflow: hidden;
+        -moz-overflow: hidden;
+        -ms-overflow: hidden;
+        -o-overflow: hidden;
+        overflow: hidden
+    }
+    section#contact .container .row .col-xs-3 p.contact-info .text-blue {
+        font-size: 12px
+    }
+    section#contact .container .row .col-xs-3 img {
+        width: 25px
+    }
+    #v-navbar .navbar-list-items a {
+        color: transparent
+    }
+    .nav-tabs>li.active>a {
+        text-decoration: underline #ffd52f
+    }
+    #v-navbar .navbar-list {
+        display: none
+    }
+}
+
+@media (max-width:323px) {
+    .header-black {
+        font-size: 12.5px
+    }
+    .header-blue,
+    header#hat .row .col-lg-4 .hat-text {
+        font-size: 8px
+    }
+    header#hat .row .col-lg-4 .hat-numbers {
+        font-size: 10px;
+        text-align: -webkit-right
+    }
+    header#hat .row .col-lg-4 .hat-btn-call {
+        float: right;
+        font-size: 9px
+    }
+    nav.navbar .container-fluid .navbar-collapse ul.nav li a {
+        font-size: 10px;
+        padding-left: 50px;
+        padding-right: 50px
+    }
+    nav.navbar .container-fluid .navbar-collapse ul.nav li a:nth-child(n+1) {
+        border: none
+    }
+    section#second .container .row .col-xs-12 .second-box {
+        -webkit-max-width: 320px;
+        -moz-max-width: 320px;
+        -ms-max-width: 320px;
+        -o-max-width: 320px;
+        max-width: 320px;
+        display: contents;
+        border: none
+    }
+    section#second .container .row .col-xs-12 .second-box-content .example-one,
+    section#second .container .row .col-xs-12 .second-box-content .examples-list-items,
+    section#second .container .row .col-xs-12 .second-box-content .result-box .result,
+    section#second .container .row .col-xs-12 .second-box-content .result-box .result-text {
+        font-size: 8px
+    }
+    .top-line form.contact-tel-me input {
+        font-size: 10px;
+        padding: 11px 0
+    }
+    section#forth .container .row .col-xs-12 .forth-box-content-txt p,
+    section#third .container .row .col-xs-12 .third-box-content .example_two .example-two,
+    section#third .container .row .col-xs-12 .third-box-content .example_two .example-two-txt,
+    section#third .container .row .col-xs-12 .third-box-content .result_two .result-two,
+    section#third .container .row .col-xs-12 .third-box-content .result_two .result-two-txt,
+    section#third .container .row .col-xs-12 .third-box-content .solution_two .solution-two,
+    section#third .container .row .col-xs-12 .third-box-content .solution_two .solution-two-txt {
+        font-size: 8px
+    }
+    section#second {
+        -webkit-overflow: hidden;
+        -moz-overflow: hidden;
+        -ms-overflow: hidden;
+        -o-overflow: hidden;
+        overflow: hidden
+    }
+    section#forth,
+    section#third {
+        -webkit-overflow: hidden;
+        -moz-overflow: hidden;
+        -ms-overflow: hidden;
+        -o-overflow: hidden
+    }
+    section#third .container .row .col-xs-12 .third-box {
+        -webkit-max-width: 320px;
+        -moz-max-width: 320px;
+        -ms-max-width: 320px;
+        -o-max-width: 320px;
+        max-width: 320px;
+        display: contents;
+        border: none
+    }
+    section#fifth .container .row .col-xs-12 .fifth-box,
+    section#forth .container .row .col-xs-12 .forth-box {
+        -webkit-max-width: 320px;
+        -moz-max-width: 320px;
+        -ms-max-width: 320px;
+        -o-max-width: 320px;
+        display: contents;
+        border: none
+    }
+    section#third {
+        overflow: hidden
+    }
+    section#forth .container .row .col-xs-12 .forth-box {
+        max-width: 320px
+    }
+    section#forth .container .row .col-xs-12 .forth-box-content-txt p b {
+        font-size: 9px
+    }
+    .top-line form.contact-tel-me button {
+        font-size: 5px;
+        margin-top: 14px;
+        margin-bottom: 14px
+    }
+    .top-line .contact-tel-me-text,
+    section#fifth .container .row .col-xs-12 .fifth-box-content-list ol li,
+    section#fifth .container .row .col-xs-12 .fifth-box-content-list p b,
+    section#fifth .container .row .col-xs-12 .fifth-box-content-txt p {
+        font-size: 8px
+    }
+    section#forth {
+        overflow: hidden
+    }
+    section#fifth,
+    section#sixth {
+        -webkit-overflow: hidden;
+        -moz-overflow: hidden;
+        -ms-overflow: hidden;
+        -o-overflow: hidden
+    }
+    section#fifth .container .row .col-xs-12 .fifth-box {
+        max-width: 320px
+    }
+    section#fifth {
+        overflow: hidden
+    }
+    .top-line .contact-tel-me-text b {
+        font-size: 10px
+    }
+    section#about-me .container .row .col-xs-12 .about-me-content .about-me_txt,
+    section#sixth .container .row .col-xs-12 .sixth-box-content-list p,
+    section#sixth .container .row .col-xs-12 .sixth-box-content-txt p {
+        font-size: 8px
+    }
+    section#sixth .container .row .col-xs-12 .sixth-box {
+        -webkit-max-width: 320px;
+        -moz-max-width: 320px;
+        -ms-max-width: 320px;
+        -o-max-width: 320px;
+        max-width: 320px;
+        display: contents;
+        border: none
+    }
+    section#sixth {
+        overflow: hidden
+    }
+    section#about-me {
+        background-position-x: 35%
+    }
+    section#about-me .container .row .col-xs-12 .about-me-content .about-me_txt b {
+        font-size: 9px
+    }
+    section#about-me .container .row .col-xs-12 .about-me-content .about-me_header {
+        font-size: 18px
+    }
+    section#client-said .container .row .col-xs-12 .client-said-box {
+        max-width: 200px;
+        max-height: none
+    }
+    section#client-said .container .row .col-xs-12 .client-said-box-content-problem-header,
+    section#client-said .container .row .col-xs-12 .client-said-box-content-problem-txt,
+    section#client-said .container .row .col-xs-12 .client-said-box-content-sms-header,
+    section#client-said .container .row .col-xs-12 .client-said-box-content-solution-header,
+    section#client-said .container .row .col-xs-12 .client-said-box-content-solution-txt {
+        font-size: 8px
+    }
+    section#client-said .container .row .col-xs-12 .client-said-box-content-company {
+        margin-left: 0
+    }
+    section#client-said .container .row .col-xs-12 .client-said-box-content-sms-txt {
+        padding: 30px
+    }
+    section#client-said .container .row .col-xs-12 .client-said-box-content-company p {
+        font-size: 10px
+    }
+    section#client-said .container .row .col-xs-12 .client-said-box-content {
+        display: block
+    }
+    section#client-said {
+        -webkit-overflow: hidden;
+        -moz-overflow: hidden;
+        -ms-overflow: hidden;
+        -o-overflow: hidden;
+        overflow: hidden
+    }
+    section#contact .container .row .col-xs-3 p.contact-info,
+    section#contact .container .row .col-xs-3 p.contact-info a {
+        font-size: 8px
+    }
+    section#contact .container .row .col-xs-3 p.contact-info .text-blue {
+        font-size: 10px
+    }
+    section#contact .container .row .col-xs-3 img {
+        width: 25px
+    }
+    #v-navbar .navbar-list-items a {
+        color: transparent
+    }
+    .nav-tabs>li.active>a {
+        text-decoration: underline #ffd52f
+    }
+    #v-navbar .navbar-list {
+        display: none
+    }
+}
+
+@media (min-width:400px) and (max-width:550px) {
+    section#main .row .col-lg-4 img {
+        display: none
+    }
+    section#main .row .col-lg-4 .request-box-content-text {
+        font-size: 10px
+    }
+    section#main .row .col-lg-4 .request-box-content-text b {
+        font-size: 18px
+    }
+    section#main .row .col-lg-4 .request-box-content form.main-request .main-request,
+    section#main .row .col-lg-4 ol.services li a {
+        font-size: 10px
+    }
+    section#main .row .col-lg-4 .request-box-content {
+        padding: 30px 00px
+    }
+    section#main .row .col-lg-4 .request-box-content form.main-request input {
+        padding: 15px 00px
+    }
+}
+
+@media (min-width:990px) {
+    #v-navbar .collapsed-content {
+        display: none
+    }
+}
